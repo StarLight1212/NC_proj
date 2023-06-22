@@ -8,4 +8,8 @@
 
 ### Year: 2023 
 
-##Introduction of this Project
+## Introduction of this Project
+
+This repo contains two parts of data analysis code, which are stored in the 'code_repo/Behavioral_Analysis/'(used for behavioral experiment data processing and analysis) and 'code_repo/EMG_Analysis/' file paths respectively.
+
+
