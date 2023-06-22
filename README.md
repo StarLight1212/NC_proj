@@ -12,4 +12,8 @@
 
 This repo contains two parts of data analysis code, which are stored in the 'code_repo/Behavioral_Analysis/'(used for behavioral experiment data processing and analysis) and 'code_repo/EMG_Analysis/' file paths respectively.
 
+## Raw Data used in this project
+All raw data(including behavioral data record, Kinematics data record, EMG signal record) can be found in link: https://drive.google.com/drive/folders/1az7uOLzP5xH7K-zpFzoAkv36kasVc-AW. 
 
+## Contact us
+If you have any questions that require our assistance, please contact us ansehen@163.com.
